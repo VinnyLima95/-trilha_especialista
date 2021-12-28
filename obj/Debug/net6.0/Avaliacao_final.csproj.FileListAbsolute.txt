@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\bin\Debug\net6.0\Avaliacao_final.exe
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\bin\Debug\net6.0\Avaliacao_final.deps.json
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\bin\Debug\net6.0\Avaliacao_final.runtimeconfig.json
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\bin\Debug\net6.0\Avaliacao_final.dll
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\bin\Debug\net6.0\ref\Avaliacao_final.dll
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\bin\Debug\net6.0\Avaliacao_final.pdb
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\obj\Debug\net6.0\Avaliacao_final.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\obj\Debug\net6.0\Avaliacao_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\obj\Debug\net6.0\Avaliacao_final.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\obj\Debug\net6.0\Avaliacao_final.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\obj\Debug\net6.0\Avaliacao_final.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\obj\Debug\net6.0\Avaliacao_final.dll
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\obj\Debug\net6.0\ref\Avaliacao_final.dll
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\obj\Debug\net6.0\Avaliacao_final.pdb
+C:\Users\vinic\OneDrive\Desktop\Avaliacao_final\obj\Debug\net6.0\Avaliacao_final.genruntimeconfig.cache
